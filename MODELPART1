@@ -1,0 +1,1 @@
+python -W ignore  main.py /homes/cs473/project2/data/dishes.csv /homes/cs473/project2/data/user_ratings_train.json /homes/cs473/project2/data/user_ratings_test.json multi 1
